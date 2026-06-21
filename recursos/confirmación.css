@@ -1,0 +1,30 @@
+body {
+
+    background-color: black;
+    color: bisque;
+}
+
+ 
+
+.confirmación {
+
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+
+}
+
+.confirmación a {
+    text-decoration: none;
+
+}
+
+.confirmación button:hover {
+    transform: scale(1.4);
+    transition: 3s;
+
+}

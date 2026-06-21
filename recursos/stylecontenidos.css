@@ -1,0 +1,103 @@
+.contenedor{ display: flex;
+    gap: 60px;
+    padding:0%;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+
+}
+body{
+    background: linear-gradient(to bottom, #000, #1b1b1b);
+}
+header{margin-top: -50px;
+    margin-left: -30px;
+    margin-right: -30px;
+    padding: 10px;
+ text-decoration:underline;
+
+}
+
+
+.personaje1:hover{transform: scale(1.05);
+transition: 0,3s;
+}
+.personaje1 img{border-radius: 0px;
+    border: 0px            
+
+}
+
+
+
+.personaje2:hover{transform: scale(1.05);
+transition: 0,3s;
+}
+.personaje2 img{border-radius: 10px;
+    border: 2px solid white;
+
+}
+
+.personaje3:hover{transform: scale(1.05);
+transition: 0,3s;}
+
+.personaje3 img{border-radius: 10px;
+    border: 2px solid white;
+
+}
+.personaje4 img{border-radius: 10px;
+    border: 2px solid white;
+}
+.personaje4:hover{transform: scale(1.05);
+transition: 0,3s;
+}
+.personaje1 img{border-radius: 10px;
+    border: 2px solid white;
+
+}
+  
+.personaje5:hover{transform: scale(1.05);
+transition: 0,3s;
+}
+.personaje5 img{border-radius: 10px;
+    border: 2px solid white;
+
+}
+   
+.personaje6:hover{transform: scale(1.05);
+transition: 0,3s;
+}
+.personaje6 img{border-radius: 10px;
+    border: 2px solid white;
+
+}
+
+ .personaje7:hover{transform: scale(1.05);
+transition: 0,3s;
+}
+.personaje7 img{border-radius: 10px;
+    border: 2px solid white;
+
+}
+ 
+.personaje8:hover{transform: scale(1.05);
+transition: 0,3s;
+}
+.personaje8 img{border-radius: 10px;
+    border: 2px solid white;
+
+}
+    
+.inicio{border-radius: 18px;
+color: rgb(250, 250, 246);
+position: absolute;
+top: 6px;
+left: 20px;
+font-size: larger;
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.inicio:hover{background-color: rgb(248, 168, 110);
+
+}
+.audio{
+    margin-left: -80%;
+}

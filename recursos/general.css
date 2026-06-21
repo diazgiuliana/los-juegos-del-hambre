@@ -1,0 +1,41 @@
+body{background-color: black;
+    color: white;
+    padding: 20px;
+
+
+}
+footer{background-color: rgb(250, 55, 0); 
+color:rgb(254, 254, 239);
+text-align: center;
+margin: 2px;
+margin-left: -30px;
+margin-right: -30px;
+margin-bottom: -30px;
+padding: 20px;
+box-sizing: border-box;
+
+
+}
+
+
+.botonenlace{ color: rgb(240, 233, 233);
+   font-family:'Times New Roman', Times, serif;
+
+}
+.boton:hover{transform: translateY(-5px);
+    transition: 0.3s;
+    
+}
+.boton:hover a{color:  rgb(255, 55, 0);
+
+}
+
+header{background-color: rgb(1, 1, 1);
+    color: beige;
+text-align: center;
+
+}
+a{text-decoration: none;}
+p{
+    padding: 8px;
+}

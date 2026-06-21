@@ -1,0 +1,129 @@
+
+
+header{margin-top:-50px;
+    
+    margin-left: -30px;
+    margin-right: -30px;
+padding: 10px;
+}
+.h1{ margin-bottom: auto;
+    text-align: center;
+    
+}
+.navegación ul a{ text-align: center ;
+  text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+text-decoration: none;
+padding: 0%;
+color: rgb(238, 217, 173);
+}
+.introducción:hover a{
+    color: black;
+
+}
+.sipnosis:hover a{ color: rgb(10, 7, 7);
+
+}
+.locación:hover a{
+    color: black;
+}
+.navegacion2{position: absolute;
+top:1px;
+right: 15px;
+padding: 10px;
+}
+ a{text-decoration: none;
+
+ }
+.reparto a { color:rgb(238, 217, 173);
+   
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+}
+.reparto { border: none;
+    background-color: rgb(6, 5, 5); 
+    padding: 5px 10px;
+
+}
+.reparto:hover a{color: rgb(255, 55, 0);
+
+}
+.producción a{color:rgb(238, 217, 173);
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.producción{border: none;
+    background-color: rgb(6, 5, 5); 
+    padding: 5px 10px
+
+}
+.producción:hover a{color: rgb(255, 55, 0);
+
+
+}
+.premios a{color:rgb(238, 217, 173);
+    text-decoration: none;
+    font-family: 'Times New Roman', Times, serif;
+}
+.premios{border: none;
+    background-color: rgb(6, 5, 5); 
+    padding: 5px 10px;
+ }
+ .premios:hover a{
+    color: rgb(255, 55, 0);
+ }
+
+.imagenes1{display: flex;
+ text-align: center;
+margin-left: 120px;
+ margin-top: 50px ;
+}
+#sipnosis{
+    text-align: center;
+    background-color: rgb(255, 55, 0);
+margin: 10px -30px;
+
+}
+
+.escala16-9{
+    
+    aspect-ratio: 16/9;
+}
+#locación{text-align: center;
+    background-color:rgb(255, 55, 0);
+margin: 10px -30px;
+
+}
+#introduccion{text-align: center;
+    background-color: rgb(255, 55, 0);
+margin: 10px -30px
+
+}
+.locación2{
+    text-align: center;
+    line-height: 1.6;
+}
+.formulario{width: 350px;
+    margin: 50px auto;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgb(255, 76, 10);
+color: black;
+text-align: center;
+}
+.formulario input{
+    width: 100%;
+    padding: 10px;
+    margin-left: -10px;
+}
+.formulario textarea{width: 100%;
+padding: 10px;
+margin-left: -10px; 
+} 
+.formulario button:hover{ transform: translate(-5px);
+transition: 0.3s;
+}
+.audio{margin-left: -80%;
+
+}
