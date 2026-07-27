@@ -1,11 +1,13 @@
 @media  (max-width:768px){
     
-}
+
 body{background-color: black;
     color: white;
     padding: 20px;
+    display: flex;
+    flex-wrap;
 
-
+    }
 }
 footer{background-color: rgb(250, 55, 0); 
 color:rgb(254, 254, 239);
